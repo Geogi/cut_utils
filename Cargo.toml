@@ -1,0 +1,11 @@
+[package]
+name = "cut_utils"
+version = "1.0.0"
+authors = ["Paul Blouët <paul@paulblouet.fr>"]
+edition = "2018"
+
+[dependencies]
+anyhow = "1.0.26"
+async-std = "1.4.0"
+clap = "2.33.0"
+csv = "1.1.3"
